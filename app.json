@@ -1,0 +1,7 @@
+{
+    "name": "Start on Heroku: .NET",
+    "description": "A barebones .Net app",
+    "repository": "https://github.com/heroku/dotnet-getting-started",
+    "logo": "https://cdn.jsdelivr.net/gh/heroku/dotnet-getting-started@main/Frontend/wwwroot/lang-logo.png",
+    "keywords": ["dotnet", "heroku"]
+  }
